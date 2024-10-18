@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Avatar](https://example.com/path/to/avatar.gif) <!-- Replace with your avatar URL -->
+![Avatar](https://avatarfiles.alphacoders.com/351/35136.gif) <!-- Replace with your avatar URL -->
 
 ## 🚀 About Me
 
