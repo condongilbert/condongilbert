@@ -6,13 +6,6 @@
 
 I am a passionate developer with a keen interest in robotics, machine learning, and creating innovative solutions. Currently, I am working on various projects that blend technology and creativity. 
 
-## 🛠️ Technologies & Tools
-
-- Python
-- Arch Linux
-- TensorFlow & PyTorch
-- Git & GitHub
-
 ## 📂 Projects
 
 ### [RedditSentiment](https://github.com/condongilbert/RedditSentiment)
