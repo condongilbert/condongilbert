@@ -1,11 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
 ![Avatar](https://avatarfiles.alphacoders.com/351/35136.gif) <!-- Replace with your avatar URL -->
-![Avatar](https://pa1.narvii.com/5799/88ce7b4cb60053f757da9e9f5320bb8a469b75f9_hq.gif) 
-![Avatar](https://66.media.tumblr.com/68c46791d6af2808ff5422b58793cb62/tumblr_mt75h32adl1rfjowdo1_500.gif) 
-![Avatar](https://media1.tenor.com/m/VNln7zjyz0QAAAAC/donkey-kong-dance.gif) 
-
-
 
 ## 🚀 About Me
 
