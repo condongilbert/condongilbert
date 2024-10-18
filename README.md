@@ -30,7 +30,7 @@ I am a passionate developer with a keen interest in robotics, machine learning, 
 ## 💬 Get in Touch
 
 Feel free to reach out if you want to discuss projects, ideas, or collaborations!
-- 📧 Email: [condongilbert@example.com](mailto:condonGilbert@example.com)
+- 📧 Email: [condongilbert@gmail.com](mailto:condonGilbert@gmail.com)
 - 💼 LinkedIn: [Gilbert Condon](https://linkedin.com/in/gilbert-condon)
 
 ## 🙌 Acknowledgments
