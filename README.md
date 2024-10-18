@@ -23,7 +23,7 @@ I am a passionate developer with a keen interest in robotics, machine learning, 
 - An app that generates personalized morning greetings with beautiful images.
 - Utilizes Stable Diffusion for image generation and sends emails using Zoho.
 
-### [Arch Linux Assistant](https://github.com/condongilbert/ArchLinuxAssistant)
+### [Arch Linux Assistant](https://github.com/condongilbert/Arch-Assistant)
 - A personal assistant tool for managing and optimizing Arch Linux installations.
 - Includes backup scripts, software installers, and system update functions.
 
