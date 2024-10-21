@@ -3,6 +3,7 @@
 ![Avatar](https://avatarfiles.alphacoders.com/351/35136.gif) <!-- Replace with your avatar URL -->
 
 ## 🚀 About Me
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=flat-square)
 
 I am a passionate developer with a keen interest in robotics, machine learning, and creating innovative solutions. Currently, I am working on various projects that blend technology and creativity. 
 
