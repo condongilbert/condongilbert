@@ -21,7 +21,7 @@ I am a passionate developer with a keen interest in robotics, machine learning, 
 - A personal assistant tool for managing and optimizing Arch Linux installations.
 - Includes backup scripts, software installers, and system update functions.
 
-## Some of my Preferred Technoloiges(No Order of Importance)
+## Some of my Preferred Tech (No Order of Importance)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
