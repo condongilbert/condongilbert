@@ -21,6 +21,16 @@ I am a passionate developer with a keen interest in robotics, machine learning, 
 - A personal assistant tool for managing and optimizing Arch Linux installations.
 - Includes backup scripts, software installers, and system update functions.
 
+## Technologies I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+
+Feel free to explore my projects to see how I use these technologies!
+
 ## 💬 Get in Touch
 
 Feel free to reach out if you want to discuss projects, ideas, or collaborations!
