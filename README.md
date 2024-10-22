@@ -44,6 +44,6 @@ Feel free to reach out if you want to discuss projects, ideas, or collaborations
 - 📧 Email: [condongilbert@gmail.com](mailto:condonGilbert@gmail.com)
 - 💼 LinkedIn: [Gilbert Condon](https://linkedin.com/in/gilbert-condon)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=condongilbert&show_icons=true)
+![GitHub Activity Radar Chart](https://quickchart.io/chart/render/sf-a9c35d56-22b5-48f4-b04b-a2c3989d2f76)
 
 
