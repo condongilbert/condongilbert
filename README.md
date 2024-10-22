@@ -8,7 +8,6 @@
 I am a passionate developer with a keen interest in robotics, machine learning, and creating innovative solutions. Currently, I am working on various projects that blend technology and creativity. 
 
 
-
 ## Some of my Preferred Tech (No Order of Importance)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -44,5 +43,7 @@ I am a passionate developer with a keen interest in robotics, machine learning, 
 Feel free to reach out if you want to discuss projects, ideas, or collaborations!
 - 📧 Email: [condongilbert@gmail.com](mailto:condonGilbert@gmail.com)
 - 💼 LinkedIn: [Gilbert Condon](https://linkedin.com/in/gilbert-condon)
+
+![GitHub Activity Chart](https://quickchart.io/chart?c={type:'radar',data:{labels:['Commits','Issues','Pull Requests','Code Review'],datasets:[{label:'Activity',data:[99,1,1,1]}]}})
 
 
