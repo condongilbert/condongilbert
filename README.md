@@ -3,9 +3,9 @@
 ![Terminal GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/0*KB_3YZVk5clUiUDO.gif)
 
 ## 🚀 About Me
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=condongilbert&style=flat-square)
 
-I am a passionate developer with a keen interest in robotics, machine learning, and creating innovative solutions. Currently, I am working on various projects that blend technology and creativity. 
+ I'm a creative problem-solver passionate about pushing the boundaries of technology. With a deep interest in robotics and machine learning, I’m constantly exploring new ways to innovate and craft impactful solutions. From automating tasks to building smart systems, I’m driven by a desire to merge tech with creativity. Currently, I’m diving into exciting projects that fuse cutting-edge tech with real-world applications, always looking to learn, grow, and make a difference.
 
 
 ## Some of my Preferred Tech (No Order of Importance)
