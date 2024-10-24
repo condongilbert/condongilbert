@@ -38,6 +38,9 @@
 - Robotics Process Automation
 - Kubernetes & Docker Orchestration
 
+<!-- FOLLOWERS -->
+Last 5 followers: None
+
 ## 💬 Get in Touch
 
 Feel free to reach out if you want to discuss projects, ideas, or collaborations!
