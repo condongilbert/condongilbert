@@ -8,21 +8,32 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_USERNAME = "condongilbert"  # Replace with your actual GitHub username
 
 def get_followers():
-    token = os.getenv("GITHUB_TOKEN")  # Make sure your token is stored in the .env file
+    token = os.getenv("GITHUB_TOKEN")
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json"
     }
-    url = f"https://api.github.com/users/{GITHUB_USERNAME}/followers"  # Use your username here
-    
-    response = requests.get(url, headers=headers)
 
-    if response.status_code == 200:
-        followers = response.json()
-        return followers
-    else:
-        print("Error fetching followers:", response.status_code)
-        return []
+    followers = []
+    page = 1
+
+    while True:
+        url = f"https://api.github.com/users/{GITHUB_USERNAME}/followers?page={page}&per_page=100"
+        response = requests.get(url, headers=headers)
+
+        if response.status_code == 200:
+            current_followers = response.json()
+            followers.extend(current_followers)
+
+            if len(followers) >= 5:  # Stop if we have 5 or more followers
+                break
+
+            page += 1  # Move to the next page
+        else:
+            print("Error fetching followers:", response.status_code)
+            break
+
+    return followers[:5]  # Return only the most recent 5 followers
 
 def update_readme(followers):
     try:
