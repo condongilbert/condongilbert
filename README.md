@@ -4,32 +4,30 @@
 
 ## 🚀 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=condongilbert&style=flat-square)
+Hello! I’m Gilbert, a passionate problem-solver with a knack for creativity and technology. I’m driven by the desire to innovate and make an impact through tech. Here’s a bit more about me:
 
- Hello! I’m Gilbert, a passionate problem-solver with a knack for creativity and technology. I’m driven by the desire to innovate and make an impact through tech. Here’s a bit more about me:
+- **🌟 What Drives Me**: I’m constantly inspired by the idea of merging creativity with technology to create smarter, more efficient solutions.
+- **🛠 What I Do**: With skills in programming and system engineering, I build, test, and optimize systems that solve real-world problems.
 
-    🌟 What Drives Me: I’m constantly inspired by the idea of merging creativity with technology to create smarter, more efficient solutions.
-    🛠 What I Do: With skills in programming and system engineering, I build, test, and optimize systems that solve real-world problems.
+### 🔍 Interests
+- 🤖 **Robotics and Intelligent Systems**
+- 📊 **Machine Learning for Real-Time Data Analysis**
+- ⚙️ **Automation for Optimized Workflows**
+- 🤝 **Open-Source Contributions and Collaborative Projects**
 
-Interests
+### 📂 Current Projects
+- **RedditSentiment**: A sentiment analysis tool for social media insights
+- **UR5 Robotics**: Experimenting with robotics simulations for process automation
+- **Good Morning Image Generator**: Creating AI-powered image generation tools
 
-    🤖 Robotics and intelligent systems
-    📊 Machine learning for real-time data analysis
-    ⚙️ Exploring automation for optimized workflows
-    🤝 Open-source contributions and collaborative projects
-
-Current Projects
-
-    RedditSentiment: A sentiment analysis tool for social media insights
-    UR5 Robotics: Experimenting with robotics simulations for process automation
-    Good Morning Image Generator: Creating AI-powered image generation tools
-
-Future Goals
-
-    🔍 Build applications that intersect machine learning with robotics
-    🛠 Develop tools that assist with workflow automation in tech industries
-    🌐 Contribute to open-source projects that push boundaries in tech
+### 🎯 Future Goals
+- **Build applications** that intersect machine learning with robotics
+- **Develop tools** that assist with workflow automation in tech industries
+- **Contribute** to open-source projects that push boundaries in tech
 
 Whether I’m programming, learning new tech, or exploring robotics, I’m always eager to discover, create, and collaborate. If you share similar interests or have ideas to discuss, feel free to reach out!
+
+---
 
 ## Some of my Preferred Tech (No Order of Importance)
 
