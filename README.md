@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=condongilbert&style=flat-square)
+
 Hello! I’m Gilbert, a passionate problem-solver with a knack for creativity and technology. I’m driven by the desire to innovate and make an impact through tech. Here’s a bit more about me:
 
 - **🌟 What Drives Me**: I’m constantly inspired by the idea of merging creativity with technology to create smarter, more efficient solutions.
